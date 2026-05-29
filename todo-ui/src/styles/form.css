@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+  background-color: pink;
+}
+
+.form input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid palevioletred;
+}
+
+.form button {
+  padding: 10px;
+  background: #6366f1;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

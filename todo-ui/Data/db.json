@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "text": "python project",
+      "completed": false,
+      "id": "YO4g49_3sxI"
+    },
+    {
+      "text": "front end task ",
+      "completed": false,
+      "id": "Vw1Qqvi1juM"
+    },
+    {
+      "text": "html",
+      "completed": false,
+      "id": "4RMH7XpICBo"
+    },
+    {
+      "text": "painting",
+      "completed": false,
+      "id": "R5l4_TqE5yo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
